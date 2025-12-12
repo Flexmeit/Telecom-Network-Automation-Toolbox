@@ -43,6 +43,6 @@ Security and reliability principles for Enterprise-Grade usage:
 
 To integrate this solution into your network or to order customization for **specific configuration changes** (e.g., adding VLANs, SNMP configuration):
 
-**Telegram:** @babaefhv7
+**Telegram:** http://telegram.me/apeiron9
 
 **Automate your network and drive operational errors down to zero.**
