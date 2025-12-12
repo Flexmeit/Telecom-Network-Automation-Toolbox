@@ -43,6 +43,6 @@ Həllin Enterprise-Grade istifadə üçün təhlükəsizlik və etibarlılıq pr
 
 Bu həllin sizin şəbəkənizə inteqrasiyası və ya **xüsusi konfiqurasiya dəyişikliklərini** (məsələn, VLAN əlavə etmək, SNMP konfiqurasiyası) avtomatlaşdırmaq üçün fərdiləşdirmə sifarişi üçün:
 
-**Telegram:** @babaefhv7
+**Telegram:** https://telegram.me/apeiron9
 
 **Şəbəkə avtomatlaşdırması ilə əməliyyat səhvlərini sıfıra endirin.**
